@@ -1,2 +1,2 @@
 # InstaCart
-InstaCart Kaggle Competition
+My contribution to the InstaCart Kaggle Competition
